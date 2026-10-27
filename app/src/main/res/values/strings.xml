@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">\@flix</string>
+    <string name="firebase_setup_title">Konfigurasi Firebase belum tersedia</string>
+    <string name="firebase_setup_body">Tambahkan konfigurasi Firebase milikmu pada app/google-services.json, lalu build ulang aplikasi. Aktifkan Authentication email/password dan siapkan Realtime Database sesuai README. Akun, katalog, dan video tidak disertakan dalam repo ini.</string>
+    <string name="media_unavailable">Video belum tersedia atau URL tidak valid.</string>
+    <string name="data_unavailable">Data belum tersedia. Periksa katalog dan aturan Firebase milikmu.</string>
+</resources>
